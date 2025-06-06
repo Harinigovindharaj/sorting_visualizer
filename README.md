@@ -87,8 +87,3 @@ sorting-visualizer/
 
 Built as a learning project to understand sorting algorithms and improve DOM manipulation skills.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
